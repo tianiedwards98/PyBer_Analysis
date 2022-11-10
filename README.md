@@ -11,11 +11,14 @@ We have been asked to:
 ## Results
 Deliverable 1:
 Below is the results of the ride-sharing dataframe that was made in both the original calulations and in the formatted version to make it more understandable.
+
 ![DataFrame](https://github.com/tianiedwards98/PyBer_Analysis/blob/main/images/Screen%20Shot%202022-11-09%20at%205.17.27%20PM.png?raw=true)
 
 ![DataFrame](https://github.com/tianiedwards98/PyBer_Analysis/blob/main/images/Screen%20Shot%202022-11-09%20at%205.18.49%20PM.png?raw=true)
+
 Deliverable 2:
 Below is the file resampled dataframe for the fares according to the range of dates requested and the multiple-line chart of total fares for each city type
+
 ![DataFrame](https://github.com/tianiedwards98/PyBer_Analysis/blob/main/images/Screen%20Shot%202022-11-09%20at%205.21.17%20PM.png?raw=true)
 
 ![Chart](https://github.com/tianiedwards98/PyBer_Analysis/blob/main/PyBer_fare_Summary.png?raw=true)
